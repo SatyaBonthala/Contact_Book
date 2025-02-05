@@ -4,12 +4,12 @@
 A simple yet stylish Contact Book application built using Python, Tkinter, ttkbootstrap, and Pandas. This application allows users to add, search, and delete contacts with a modern and colorful UI.
 
 ## 🚀 Features
-✔ Add Contacts (Name, Phone, Email)
-✔ Search Contacts (by Name or Phone)
-✔ Delete Contacts
-✔ Modern GUI with ttkbootstrap
-✔ Dark Theme (darkly) for a Stylish Look
-✔ CSV-based Storage for Easy Management
+- Add Contacts (Name, Phone, Email)
+- Search Contacts (by Name or Phone)
+- Delete Contacts
+- Modern GUI with ttkbootstrap
+- Dark Theme (darkly) for a Stylish Look
+- CSV-based Storage for Easy Management
 
 ## Installation  
 
